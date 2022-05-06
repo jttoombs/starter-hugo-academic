@@ -1,0 +1,5 @@
+in powershell run:
+
+hugo server
+
+then go to localhost site and begin editing local files. Site should be updated in real time.
