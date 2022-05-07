@@ -1,12 +1,19 @@
 for installation of hugo in powershell:
 
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
-Invoke-WebRequest get.scoop.sh | Invoke-Expression
-scoop install git go hugo-extended
-scoop install hugo-extended
+>>> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
+>>> Invoke-WebRequest get.scoop.sh | Invoke-Expression
+>>> scoop install git go hugo-extended
+>>> scoop install hugo-extended
 
 once installed, in powershell run:
-
-hugo server
+>>> hugo server
 
 then go to localhost site and begin editing local files. Site should be updated in real time.
+
+
+
+
+for publications:
+>>> pip3 install academic==0.5.1 (in conda environment is fine)
+
+>>> academic import --bibtex cite.bib (while current directory is publicaiton)
