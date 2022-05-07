@@ -1,4 +1,11 @@
-in powershell run:
+for installation of hugo in powershell:
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
+Invoke-WebRequest get.scoop.sh | Invoke-Expression
+scoop install git go hugo-extended
+scoop install hugo-extended
+
+once installed, in powershell run:
 
 hugo server
 

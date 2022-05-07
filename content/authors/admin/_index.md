@@ -14,7 +14,7 @@ organizations:
     url: https://me.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD candidate in the Design for Emerging and Nanoscale Manufacturing lab at the University of California, Berkeley advised by Professor Hayden Taylor.
 
 # Interests to show in About widget
 interests:
@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2024
+    - course: PhD in Mechanical Engineering
+      institution: University of California, Berkeley
+      year: expected 2024
     - course: MSc in Mechanical Engineering
       institution: University of California, Berkeley
       year: 2020
@@ -71,7 +71,5 @@ highlight_name: true
 ---
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
