@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/jttoombs/jttoombs.github.io
+	url = https://jttoombs.github.io
 	branch = master
