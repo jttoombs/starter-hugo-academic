@@ -1,5 +1,10 @@
 ---
 title: "Laminated micro-machine: Design and fabrication of a flexure-based Delta robot"
+image:
+  placement: 1
+  focal_point: ''
+  preview_only: false
+  caption: "Image credit: Jorge Correa, Joseph Toombs"
 date: 2016-01-01
 publishDate: 2022-05-07T03:12:27.453677Z
 authors: ["Jorge E. Correa", "Joseph Toombs", "Nicholas Toombs", "Placid M. Ferreira"]

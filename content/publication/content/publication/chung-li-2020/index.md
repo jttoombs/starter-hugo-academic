@@ -1,5 +1,10 @@
 ---
 title: "Tomographic color Schlieren refractive index mapping for computed axial lithography"
+image:
+  placement: 1
+  focal_point: ''
+  preview_only: false
+  caption: "Image credit: Chi Chung Li, Joseph Toombs"
 date: 2020-01-01
 publishDate: 2022-05-07T03:12:27.447622Z
 authors: ["Chi Chung Li", "Joseph Toombs", "Hayden Taylor"]

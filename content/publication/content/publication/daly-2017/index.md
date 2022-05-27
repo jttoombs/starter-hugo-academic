@@ -1,5 +1,10 @@
 ---
 title: "MMaJIC, an Experimental Chamber for Investigating Soldering and Brazing in Microgravity"
+image:
+  placement: 1
+  focal_point: ''
+  preview_only: false
+  caption: "Image credit: Shannen Daly, Micah Hardyman, James Ragan, Joseph Toombs"
 date: 2017-07-01
 publishDate: 2022-05-07T03:12:27.450617Z
 authors: ["Shannen Daly", "Micah Hardyman", "James Ragan", "Joseph Toombs", "Tracie Prater", "Richard N. Grugel"]
