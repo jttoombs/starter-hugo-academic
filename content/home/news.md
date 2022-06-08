@@ -9,12 +9,29 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'News'
-subtitle:
+title: News
+subtitle: ''
 
-
----
-
-**June 2022:** Published first release of the [VAMToolbox](https://vamtoolbox.readthedocs.io/en/latest/_docs/intro.html), a Python toolbox for generating and optimizing digital light projections for volumetric additive manfacturing.
-
+content:
+  # Filter on criteria
+  filters:
+    folders:
+      - news
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+design:
+  # Choose a view for the listings:
+  view: citation
+  columns: '2'
 ---

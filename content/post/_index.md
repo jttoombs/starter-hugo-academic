@@ -1,5 +1,5 @@
 ---
-title: News
+title: Posts
 cms_exclude: true
 
 # View.
