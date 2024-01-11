@@ -1,8 +1,8 @@
 ---
 title: Roll-to-roll tomographic volumetric additive manufacturing for continuous production of microstructures on long flexible substrates
 
-event: SPIE Photonics West Advanced Fabrication Technologies for Micro/Nano Optics and Photonics XV 2022
-event_url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12012.toc
+event: SPIE Photonics West Advanced Fabrication Technologies for Micro/Nano Optics and Photonics XVII 2024
+event_url: https://spie.org/photonics-west/presentation/Roll-to-roll-tomographic-volumetric-additive-manufacturing-for-continuous-production/12898-45#_=_
 
 location: Moscone Center
 address:

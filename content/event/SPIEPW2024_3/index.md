@@ -2,7 +2,7 @@
 title: Multi-beam phase mask optimization for holographic volumetric additive manufacturing
 
 event: SPIE Photonics West Advanced Fabrication Technologies for Micro/Nano Optics and Photonics XVII 2024
-# event_url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12012.toc
+event_url: https://spie.org/photonics-west/presentation/Multi-beam-phase-mask-optimization-for-holographic-volumetric-additive-manufacturing/12898-64#_=_
 
 location: Moscone Center
 address:

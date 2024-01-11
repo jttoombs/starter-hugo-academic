@@ -2,7 +2,7 @@
 title: Generalized projection optimization model for tomographic volumetric additive manufacturing
 
 event: SPIE Photonics West Advanced Fabrication Technologies for Micro/Nano Optics and Photonics XVII 2024
-# event_url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12012.toc
+event_url: https://spie.org/photonics-west/presentation/Generalized-projection-optimization-model-for-tomographic-volumetric-additive-manufacturing/12898-35#_=_
 
 location: Moscone Center
 address:
