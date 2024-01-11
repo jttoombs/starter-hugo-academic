@@ -12,7 +12,7 @@ address:
     postcode: '94103'
     country: United States
 
-summary: ''
+summary: Co-optimization of phase masks for multi-beam exposure holographic volumetric additive manufacturing
 abstract: 'Optical projection system with high numerical apertures (NA) enables high-resolution imaging but also suffers from shorter depth of focus and more pronounced aberrations relative to low NA systems. In microscale volumetric additive manufacturing (VAM), these problems significantly reduce overall optical contrast and geometric fidelity. In this context, holography is a promising 3D imaging method to solve these challenges thanks to its focal point steering and aberration correction capabilities. However, the design of holographic projections for optimal 3D patterning remains a non-trivial ill-posed problem and this design problem is particularly challenging in systems where the material exposure responses from multiple holographic beams are coupled. In this work, we introduce a novel method to co-optimize the phase masks for multiple coupled holographic beams for motionless 3D lithography. We showcase the flexibility of this method through examples of single-shot VAM systems with different modes of response coupling such as photoinhibition and two-photon absorption. Lastly, we discuss how this method can naturally extend to design phase masks for holo-tomographic 3D patterning.'
 
 # Talk start and end times.

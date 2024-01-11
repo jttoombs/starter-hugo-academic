@@ -12,7 +12,7 @@ address:
     postcode: '94103'
     country: United States
 
-summary: ''
+summary: Generalization of previous optimization schemes for improved control over delivered dose response in tomographic volumetric additive manufacturing
 abstract: 'Projection optimization is a critical step in tomographic volumetric additive manufacturing, and it has a direct impact on print failure rate, geometric tolerance, and conversion accuracy of the printed part. So far, a few distinct optimization schemes with different advantages have been proposed. Here, we discuss efforts to identify the commonalities among these schemes and formalize the problem. We identified an optimization model that generalizes and extends the objective functions of three prior optimization schemes. The proposed model allows various desirable features offered by individual schemes to interoperate in a generalized mathematical form. In addition, this model consistently considers material response throughout the optimization and offers control on error sparsity. Overall, the rich parameter space of this optimization framework allows systematic fine-tuning of delivered response profiles. At the core of the optimization, the light propagation model captures the linear map between sinogram and tomogram quantities. We discuss our ongoing effort to model phenomena such as absorption, refraction through gradient-index media, and scattering.'
 
 # Talk start and end times.
