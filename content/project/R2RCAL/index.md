@@ -39,4 +39,8 @@ slides: ''
 
 ## Roll-to-roll computed axial lithography (R2R CAL)
 
+### Optical layout
+![](images/r2rcallayout.png)
 
+### System diagram
+![](images/r2rsystemdiagram.png)
