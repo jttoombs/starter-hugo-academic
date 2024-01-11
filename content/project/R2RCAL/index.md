@@ -11,7 +11,7 @@ external_link: ''
 image:
   caption: 'Image credit: Joseph Toombs'
   focal_point: ''
-  placement: 2
+  placement: 1
   preview_only: false
 
 
