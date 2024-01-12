@@ -49,7 +49,7 @@ There are some notable differences in the optics for CAL and R2R CAL. First, the
 
 ### Material handling and systems
 
-The R2R line is driven by a servo motor and constant tension is provided by an AC torque motor. ![Gel photoresist](https://josephtoombs.netlify.app/publication/content/publication/toombs-2023/) is dispensed onto the web in a 1-3 mm thick coating with a heated slot-die coater and syringe pump. The exposure roller supports the substrate and photoresist where the digital light patterns are projected.
+The R2R line is driven by a servo motor and constant tension is provided by an AC torque motor. [Gel photoresist](https://josephtoombs.netlify.app/publication/content/publication/toombs-2023/) is dispensed onto the web in a 1-3 mm thick coating with a heated slot-die coater and syringe pump. The exposure roller supports the substrate and photoresist where the digital light patterns are projected.
 
 ![](images/r2rlinediagram.png)
 
