@@ -45,7 +45,7 @@ R2R CAL is a new form of continuous light-based 3D printing based on the tomogra
 
 There are some notable differences in the optics for CAL and R2R CAL. First, the object to be printed lies near the edge of the rotating body instead of near the rotation axis in conventional CAL. To achieve the best printing resolution and uniform point spread function (PSF) over the printing region, this requires a long focal depth that covers the entire distance the photoresist traverses in the y-axis (see axes definition in the layout below). However, to achieve this with a static optical system, the numerical aperture must be decreased and, consequently, the PSF size increases. Since we would like to print microstructures this is undesirable, so we use an electrically tunable lens (ETL) to instead shift the focal plane dynamically. The ETL is sychronized to the digital micromirror device (DMD) such that segmented images are projected onto corresponding focal planes to follow the curvature of the photoresist.
 
-![](images/r2rcallayout.png)
+![](images/r2rlayout.png)
 
 ### Material handling and systems
 
