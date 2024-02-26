@@ -63,8 +63,8 @@ In this study, a nanocomposite resin was used. The nanocomposite composes spheri
 
 Coordination of the rotation stage and DMD is done with a custom Python software running on a PC. The laser is controlled by a microcontroller which is controlled by the PC via serial communication. Prints require approximately 45-90 seconds of exposure time. Polymeric and silica glass parts were printed with minimum feature sizes of 20 and 50 µm.
 
-![](images/microcalpolymer.tif)
+![](images/microcalpolymer.jpg)
 
-![](images/microcalmicrolens.tif)
+![](images/microcalmicrolens.jpg)
 
 ![](images/microcalmicrofluidic.jpg)
